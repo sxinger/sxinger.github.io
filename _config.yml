@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -29,9 +29,9 @@ projects:
     #  - repo-name
 
 social_media:
-  university site: http://your_website_url
-  google scholar: https://scholar.google.com/citations?user=iMUU9XEAAAAJ&hl=en 
   linkedin: xing-song-88473167
+  # university_site: http://your_website_url
+  # google_scholar: https://scholar.google.com/citations?user=iMUU9XEAAAAJ&hl=en 
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
